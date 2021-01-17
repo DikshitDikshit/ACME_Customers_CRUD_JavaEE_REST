@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.algonquincollege.cst8277.OrderSystemTestSuite
+-------------------------------------------------------------------------------
+Tests run: 40, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.873 s - in com.algonquincollege.cst8277.OrderSystemTestSuite
